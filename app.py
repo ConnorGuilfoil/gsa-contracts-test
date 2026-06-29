@@ -8,7 +8,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-EXCEL_PATH = "/Users/connorguilfoil/Desktop/Grady Sports/NFL_Contracts.xlsx"
+EXCEL_PATH = "NFL_Contracts.xlsx"
 
 # ── Constants (identical to query_contracts.py) ───────────────────────────────
 
